@@ -44,75 +44,27 @@
 [submodule "src/modules/qoffline"]
 	path = src/modules/qoffline
 	url = https://github.com/imagina/qoffline.git
-[submodule "src/modules/qad"]
-	path = src/modules/qad
-	url = https://github.com/imagina/qad.git
-[submodule "src/modules/qappointment"]
-	path = src/modules/qappointment
-	url = https://github.com/imagina/qappointment.git
-[submodule "src/modules/qauction"]
-	path = src/modules/qauction
-	url = https://github.com/imagina/qauction.git
-[submodule "src/modules/qbanner"]
-	path = src/modules/qbanner
-	url = https://github.com/imagina/qbanner.git
 [submodule "src/modules/qblog"]
 	path = src/modules/qblog
 	url = https://github.com/imagina/qblog.git
-[submodule "src/modules/qbooking"]
-	path = src/modules/qbooking
-	url = https://github.com/imagina/qbooking.git
-[submodule "src/modules/qbuilder"]
-	path = src/modules/qbuilder
-	url = https://github.com/imagina/qbuilder.git
-[submodule "src/modules/qcommerce"]
-	path = src/modules/qcommerce
-	url = https://github.com/imagina/qcommerce.git
-[submodule "src/modules/qcredit"]
-	path = src/modules/qcredit
-	url = https://github.com/imagina/qcredit.git
-[submodule "src/modules/qdocument"]
-	path = src/modules/qdocument
-	url = https://github.com/imagina/qdocument.git
-[submodule "src/modules/qevent"]
-	path = src/modules/qevent
-	url = https://github.com/imagina/qevent.git
 [submodule "src/modules/qform"]
 	path = src/modules/qform
 	url = https://github.com/imagina/qform.git
-[submodule "src/modules/qlocations"]
-	path = src/modules/qlocations
-	url = https://github.com/imagina/qlocations.git
 [submodule "src/modules/qmenu"]
 	path = src/modules/qmenu
 	url = https://github.com/imagina/qmenu.git
 [submodule "src/modules/qpage"]
 	path = src/modules/qpage
 	url = https://github.com/imagina/qpage.git
-[submodule "src/modules/qplace"]
-	path = src/modules/qplace
-	url = https://github.com/imagina/qplace.git
-[submodule "src/modules/qplan"]
-	path = src/modules/qplan
-	url = https://github.com/imagina/qplan.git
 [submodule "src/modules/qqreable"]
 	path = src/modules/qqreable
 	url = https://github.com/imagina/qqreable.git
-[submodule "src/modules/qredirect"]
-	path = src/modules/qredirect
-	url = https://github.com/imagina/qredirect.git
 [submodule "src/modules/qrequestable"]
 	path = src/modules/qrequestable
 	url = https://github.com/imagina/qrequestable.git
-[submodule "src/modules/qslider"]
-	path = src/modules/qslider
-	url = https://github.com/imagina/qslider.git
 [submodule "src/modules/qreports"]
 	path = src/modules/qreports
 	url = https://github.com/imagina/qreports.git
-[submodule "src/modules/qwebhook"]
-	path = src/modules/qwebhook
-	url = https://github.com/imagina/qwebhook.git
 [submodule "src/modules/quickbase"]
 	path = src/modules/quickbase
 	url = https://github.com/agionedev/quickbase.git
